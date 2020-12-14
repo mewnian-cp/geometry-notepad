@@ -1,0 +1,16 @@
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.exe
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.deps.json
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.runtimeconfig.json
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.runtimeconfig.dev.json
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.dll
+E:\cp-codes\wform\geometry-notepad\bin\Debug\netcoreapp3.1\geometry-notepad.pdb
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.csprojAssemblyReference.cache
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry_notepad.Form1.resources
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.csproj.GenerateResource.cache
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.AssemblyInfoInputs.cache
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.AssemblyInfo.cs
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.csproj.CoreCompileInputs.cache
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.dll
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.pdb
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry-notepad.genruntimeconfig.cache
+E:\cp-codes\wform\geometry-notepad\obj\Debug\netcoreapp3.1\geometry_notepad.DrawTrianglePopup.resources
