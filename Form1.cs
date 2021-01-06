@@ -18,6 +18,7 @@ namespace geometry_notepad
         Pen NormalLine = new Pen(Color.Black, thickness);
         SolidBrush FontColor = new SolidBrush(Color.Black);
         Font CurrentFont = new Font("Arial", 12);
+
         public Form1()
         {
             InitializeComponent();
