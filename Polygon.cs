@@ -38,10 +38,10 @@ namespace geometry_notepad
         }
 
         List<PointF> points = new List<PointF>();
-        float Perimeter, Area;
+        float Perimeter = -1, Area = -1;
         public Polygon(List<PointF> new_points)
         {
-            points = new_points;
+            points.AddRange(new_points);
         }
         public void Add(PointF new_point)
         {
@@ -70,6 +70,7 @@ namespace geometry_notepad
 
         public float GetPerimeter()
         {
+            if (Perimeter >= 0) return Perimeter;
             int n = points.Count;
             float r = 0;
             for (int i = 0; i < n; ++i)
@@ -84,7 +85,12 @@ namespace geometry_notepad
 
         public float GetArea()
         {
-            List<PointF> temp = points;
+            if (Area >= 0) return Area;
+            List<PointF> temp = new List<PointF>();
+            for (int i = 0; i < points.Count; ++i)
+            {
+                temp.Add(new PointF(points[i].X, points[i].Y));
+            }    
             temp.Sort(new ComparePointsCW());
             int n = temp.Count;
             float r = 0;

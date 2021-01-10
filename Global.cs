@@ -12,6 +12,7 @@ namespace geometry_notepad
         public const float DefaultFontSize = 12;
         public static List<Polygon> polygons = new List<Polygon>();
         public static Font CurrentFont = new Font("Arial", 12);
+        public static float BaseDistance = Global.DefaultDistance;
         public static float CurrentDistance = Global.DefaultDistance;
         public static PointF PointO, Dimension;
         public static float radius = 0.01f;
